@@ -1,4 +1,5 @@
 
+![Quant AI Sage](img/quant-ai-sage.jpeg)
 # Quant-AI-Sage
 
 Quant-AI-Sage is a modular, Python-based stock trading platform designed for predictive trading powered by technical analysis and advanced machine learning. The system is built with flexibility and accuracy as its core goals, allowing users to perform in-depth technical analysis, leverage large language models (LLMs) for stock trend prediction, and automate trading decisions through integrated broker APIs.
