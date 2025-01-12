@@ -1,3 +1,5 @@
+**WORK IN PROGRESS**
+*NOTE:* this is an actively developed project that is not yet functional by any means.
 
 ![Quant AI Sage](img/quant-ai-sage.jpeg)
 # Quant-AI-Sage
